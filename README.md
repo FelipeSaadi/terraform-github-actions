@@ -19,3 +19,5 @@ Rodando o código:
 
 Aplicando as ações:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/a0262948-a966-4997-a982-ff951c8fe180)
+
+Instância EC2:
