@@ -16,7 +16,7 @@ Ao efetuar toda a configuração, aperfeiçoei meus conhecimentos em github acti
 ## Execução 
 
 Definindo as variáveis de ambiente:
-![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/224f51c1-d54e-405e-8b5c-9e2738cfb1bc)
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/ac1a95a2-234a-48db-a746-6de6c8112460)
 
 Definindo a Secret:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/eb03f850-2c7c-46f9-8371-00cbabab112d)
