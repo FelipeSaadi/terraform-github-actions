@@ -3,4 +3,13 @@
 ## Execução 
 
 Definindo as variáveis de ambiente:
-![image](https://github.com/FelipeSaadi/github-actions-terraform/assets/54749257/450a1e5e-be5d-4ac1-8dfd-8f790d67b77e)
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/224f51c1-d54e-405e-8b5c-9e2738cfb1bc)
+
+Definindo a Secret:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/eb03f850-2c7c-46f9-8371-00cbabab112d)
+
+Ajustando variaveis do Terraform:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/7a168f20-06b4-4b83-89e0-067c2fc8b8bf)
+
+PR acionando o Terraform Plan:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/2bb34656-aaf8-4629-95f2-4846523d261b)
