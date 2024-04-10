@@ -17,7 +17,14 @@ PR acionando o Terraform Plan:
 Rodando o código:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/b34954ce-6cf2-4d0d-802e-76d7202b1f91)
 
+Passando por todos os checks:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/877b6d4f-c250-4473-9eae-af9afbb98edd)
+
 Aplicando as ações:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/a0262948-a966-4997-a982-ff951c8fe180)
 
-Instância EC2:
+Resultado no Terraform Cloud:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/c034fb98-081e-4fbd-b92d-ec08158160f6)
+
+Resultado na AWS:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/9be59099-2cdd-4a52-aae4-52abe4bba96c)
