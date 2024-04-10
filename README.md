@@ -13,3 +13,6 @@ Ajustando variaveis do Terraform:
 
 PR acionando o Terraform Plan:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/2bb34656-aaf8-4629-95f2-4846523d261b)
+
+Rodando o código:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/b34954ce-6cf2-4d0d-802e-76d7202b1f91)
