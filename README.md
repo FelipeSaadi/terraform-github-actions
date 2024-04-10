@@ -16,3 +16,6 @@ PR acionando o Terraform Plan:
 
 Rodando o código:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/b34954ce-6cf2-4d0d-802e-76d7202b1f91)
+
+Aplicando as ações:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/a0262948-a966-4997-a982-ff951c8fe180)
