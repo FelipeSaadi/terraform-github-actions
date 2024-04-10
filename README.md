@@ -5,6 +5,11 @@ Terraform: é uma ferramenta para automação de pipelines de infra, com ele é 
 
 Github Actions: é uma ferramenta do github capaz de executar diversas pipelines configuraveis, desde execução de códigos de testes para validar o código alterado (branchs, PRs e demais actions do github) à ativação de scripts externos capazes de efetuar as pipelines de CI/CD (ex: terraform).
 
+A união dessas duas ferramentas se dá pela configuração feita no workflow do Github Actions, tal workflow é responsável por planejar e aplicar uma série de tarefas do Terraform Cloud API para que a cada PR feito no github, seja feito o deploy da instância na AWS. 
+
+Segue abaixo o fluxo de execução:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/1c80bf00-55e9-43d5-aecc-4b398956ed4c)
+
 ## Execução 
 
 Definindo as variáveis de ambiente:
