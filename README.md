@@ -1,5 +1,10 @@
 # Github Actions e Terraform
 
+## Tecnologias:
+Terraform: é uma ferramenta para automação de pipelines de infra, com ele é possível definir tasks que serão executadas de acordo com as necessidades de DevOps, permitindo criar instâncias, escalar recursos e controlar o funcionamento de uma infraestrutura por meio de um arquivo de controle de status.
+
+Github Actions: é uma ferramenta do github capaz de executar diversas pipelines configuraveis, desde execução de códigos de testes para validar o código alterado (branchs, PRs e demais actions do github) à ativação de scripts externos capazes de efetuar as pipelines de CI/CD (ex: terraform).
+
 ## Execução 
 
 Definindo as variáveis de ambiente:
