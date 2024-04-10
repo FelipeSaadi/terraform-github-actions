@@ -10,6 +10,9 @@ A união dessas duas ferramentas se dá pela configuração feita no workflow do
 Segue abaixo o fluxo de execução:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/1c80bf00-55e9-43d5-aecc-4b398956ed4c)
 
+## Aprendizado:
+Ao efetuar toda a configuração, aperfeiçoei meus conhecimentos em github actions, aprendendo novas formas de usá-lo ao efetuar um deploy de uma instâncias apenas criando um PR. Com o Terraform, aprendi a configurá-lo, conectá-lo a uma conta da AWS e criar todo o pipeline de execuções para efetuar um deploy de instâncias EC2, conhecimento que será muito útil para o próximo módulo. Agora será uma ótima oportunidade de aperfeiçoá-lo para implementar pipelines mais efetivas de CI/CD.
+
 ## Execução 
 
 Definindo as variáveis de ambiente:
