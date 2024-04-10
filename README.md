@@ -41,3 +41,7 @@ Resultado no Terraform Cloud:
 
 Resultado na AWS:
 ![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/9be59099-2cdd-4a52-aae4-52abe4bba96c)
+
+Exibindo a instância:
+![image](https://github.com/FelipeSaadi/terraform-github-actions/assets/54749257/f576e834-78b9-4ac6-b3b0-fe882c5775fb)
+
